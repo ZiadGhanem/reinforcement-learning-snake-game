@@ -21,7 +21,7 @@ There are four files:
 * [main.py](main.py), the main file used to run the game.
 * [app.py](app.py), the file which includes the application itself, It creates the snake and Reinforcment learning agent objects, runs them and also renders the game and plays sound effects.
 * [snake.py](snake.py), includes the snake class.
-* [reinforcement_learning_agent.py], includes the Reinforcement Learning Dyanmic Programming Agent.
+* [reinforcement_learning_agent.py](reinforcement_learning_agent.py), includes the Reinforcement Learning Dyanmic Programming Agent.
 
 ----
 ## Results
